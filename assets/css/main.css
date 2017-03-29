@@ -1,0 +1,26 @@
+*{
+	outline: px solid red !important;
+}
+
+.containerA {
+  padding-right: 250px;
+  padding-left: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.imgHeader {
+ 	margin-right: 150px;
+ 	width: 750px;
+ 	height: 150px;
+}
+
+.imgHeader2 {
+ 	
+ 	width: 150px;
+ 	height: 150px;
+}
+
+.textCenter{
+	padding-left: 100pc;
+}
