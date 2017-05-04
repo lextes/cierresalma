@@ -24,3 +24,13 @@
 .textCenter{
 	padding-left: 100pc;
 }
+
+p.description2 {
+  font-size: 24px;
+  color: #F1EEEE;
+}
+
+p.description3 {
+  font-size: 18px;
+  color: #F1EEEE;
+}
